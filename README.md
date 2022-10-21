@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PaulSchulteSythen
+- 👋 Hi, I’m Paul Schulte
 - 👀 I’m interested in Handball, Software Engineering, Python, Java, C++ and especially Machine Learning
 - 🌱 I’m currently learning C++, Data Structures and Algorithms, Machine Learning and Neural Networks
 - 📫 How to reach me: mail paul.schulte@rwth-aachen.de
